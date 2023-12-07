@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/BrightHao/Golang-IOC/ioc"
+	ioc "github.com/BrightHao/golang-ioc"
 )
 
 type Tp struct {
